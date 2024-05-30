@@ -1,4 +1,4 @@
-const url = 'http://192.168.218.238:3000/';
+const url = 'http://:3000/';
 
 const loginUrl = "${url}staff/auth/sign-in";
 const getDetailUrl = "${url}staff/students/";
